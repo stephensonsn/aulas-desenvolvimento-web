@@ -20,7 +20,7 @@
 		<div id = "conteudo">
 			Bordas <br>
 			Bordas <br>
-			Bordas <br>
+			Bordas 2 <br>
 		</div>
 	    
 		
